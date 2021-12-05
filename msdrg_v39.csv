@@ -1,0 +1,130 @@
+MSDRG,CONDITIONDESCRIPTION,MSDRGDESCRIPTION
+011,Acute viral pharyngitis (disorder),"Tracheostomy for face, mouth and neck"
+011,Streptococcal sore throat (disorder),"Tracheostomy for face, mouth and neck"
+011,Whiplash injury to neck,"Tracheostomy for face, mouth and neck"
+056,Alzheimer's disease (disorder),Degenerative nervous system disorders with mcc
+056,Familial Alzheimer's disease of early onset (disorder),Degenerative nervous system disorders with mcc
+071,Stroke,Nonspecific cerebrovascular disorders with cc
+073,Neuropathy due to type 2 diabetes mellitus (disorder),Cranial and peripheral nerve disorders with mcc
+073,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder),Cranial and peripheral nerve disorders with mcc
+088,Concussion injury of brain,Concussion with mcc
+088,Concussion with loss of consciousness,Concussion with mcc
+088,Concussion with no loss of consciousness,Concussion with mcc
+091,Chronic pain,Other disorders of nervous system with mcc
+100,Epilepsy,Seizures with mcc
+100,History of single seizure (situation),Seizures with mcc
+100,Seizure disorder,Seizures with mcc
+102,Chronic intractable migraine without aura,Headaches with mcc
+124,Macular edema and retinopathy due to type 2 diabetes mellitus (disorder),Other disorders of the eye with mcc
+124,Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder),Other disorders of the eye with mcc
+152,Acute bacterial sinusitis (disorder),Otitis media and uri with mcc
+152,Chronic sinusitis (disorder),Otitis media and uri with mcc
+152,Otitis media,Otitis media and uri with mcc
+152,Perennial allergic rhinitis,Otitis media and uri with mcc
+152,Perennial allergic rhinitis with seasonal variation,Otitis media and uri with mcc
+152,Seasonal allergic rhinitis,Otitis media and uri with mcc
+152,Sinusitis (disorder),Otitis media and uri with mcc
+152,Viral sinusitis (disorder),Otitis media and uri with mcc
+157,Impacted molars,Dental and oral diseases with mcc
+177,Pneumonia,Respiratory infections and inflammations with mcc
+180,Suspected lung cancer (situation),Respiratory neoplasms with mcc
+182,Non-small cell carcinoma of lung TNM stage 1 (disorder),Respiratory neoplasms without ccmcc
+182,Non-small cell lung cancer (disorder),Respiratory neoplasms without ccmcc
+182,Small cell carcinoma of lung (disorder),Respiratory neoplasms without ccmcc
+190,Chronic obstructive bronchitis (disorder),Chronic obstructive pulmonary disease with mcc
+190,Pulmonary emphysema (disorder),Chronic obstructive pulmonary disease with mcc
+202,Acute bronchitis (disorder),Bronchitis and asthma with ccmcc
+202,Childhood asthma,Bronchitis and asthma with ccmcc
+280,History of myocardial infarction (situation),"Acute myocardial infarction, discharged"
+280,Myocardial Infarction,"Acute myocardial infarction, discharged"
+291,Chronic congestive heart failure (disorder),Heart failure and shock with mcc
+293,History of cardiac arrest (situation),Heart failure and shock without ccmcc
+296,Cardiac Arrest,"Cardiac arrest, unexplained with mcc"
+302,Coronary Heart Disease,Atherosclerosis with mcc
+304,Hypertension,Hypertension with mcc
+308,Atrial Fibrillation,Cardiac arrhythmia and conduction
+371,Escherichia coli urinary tract infection,Major gastrointestinal disorders and peritoneal
+374,Malignant tumor of colon,Digestive malignancy with mcc
+374,Overlapping malignant neoplasm of colon,Digestive malignancy with mcc
+374,Primary malignant neoplasm of colon,Digestive malignancy with mcc
+374,Primary small cell malignant neoplasm of lung TNM stage 1 (disorder),Digestive malignancy with mcc
+375,Secondary malignant neoplasm of colon,Digestive malignancy with cc
+385,Polyp of colon,Inflammatory bowel disease with mcc
+391,Protracted diarrhea,"Esophagitis, gastroenteritis and miscellaneous"
+393,Appendicitis,Other digestive system diagnoses with mcc
+393,Bleeding from anus,Other digestive system diagnoses with mcc
+393,History of appendectomy,Other digestive system diagnoses with mcc
+393,Recurrent rectal polyp,Other digestive system diagnoses with mcc
+393,Rupture of appendix,Other digestive system diagnoses with mcc
+542,Fracture of ankle,Pathological fractures and musculoskeletal
+542,Pathological fracture due to osteoporosis (disorder),Pathological fractures and musculoskeletal
+545,Rheumatoid arthritis,Connective tissue disorders with mcc
+553,Gout,Bone diseases and arthropathies with mcc
+553,Localized primary osteoarthritis of the hand,Bone diseases and arthropathies with mcc
+553,Osteoarthritis of hip,Bone diseases and arthropathies with mcc
+553,Osteoarthritis of knee,Bone diseases and arthropathies with mcc
+553,Osteoporosis (disorder),Bone diseases and arthropathies with mcc
+555,Primary fibromyalgia syndrome,Signs and symptoms of musculoskeletal system
+557,Rupture of patellar tendon,"Tendonitis, myositis and bursitis with mcc"
+562,Fracture of clavicle,"Fracture, sprain, strain and dislocation"
+562,Fracture of forearm,"Fracture, sprain, strain and dislocation"
+562,Fracture of rib,"Fracture, sprain, strain and dislocation"
+562,Fracture of the vertebral column with spinal cord injury,"Fracture, sprain, strain and dislocation"
+562,Fracture of vertebral column without spinal cord injury,"Fracture, sprain, strain and dislocation"
+562,Fracture subluxation of wrist,"Fracture, sprain, strain and dislocation"
+562,Injury of anterior cruciate ligament,"Fracture, sprain, strain and dislocation"
+562,Injury of medial collateral ligament of knee,"Fracture, sprain, strain and dislocation"
+562,Sprain of ankle,"Fracture, sprain, strain and dislocation"
+562,Sprain of wrist,"Fracture, sprain, strain and dislocation"
+562,Tear of meniscus of knee,"Fracture, sprain, strain and dislocation"
+564,Closed fracture of hip,Other musculoskeletal system and connective
+582,Malignant neoplasm of breast (disorder),Mastectomy for malignancy with ccmcc
+604,Facial laceration,"Trauma to the skin, subcutaneous tissue"
+606,Atopic dermatitis,Minor skin disorders with mcc
+606,Contact dermatitis,Minor skin disorders with mcc
+640,Body mass index 30+ - obesity (finding),"Miscellaneous disorders of nutrition, metabolism"
+640,Body mass index 40+ - severely obese (finding),"Miscellaneous disorders of nutrition, metabolism"
+640,Hyperglycemia (disorder),"Miscellaneous disorders of nutrition, metabolism"
+640,Prediabetes,"Miscellaneous disorders of nutrition, metabolism"
+642,Hyperlipidemia,Inborn and other disorders of metabolism
+642,Hypertriglyceridemia (disorder),Inborn and other disorders of metabolism
+642,Metabolic syndrome X (disorder),Inborn and other disorders of metabolism
+643,Diabetes,Endocrine disorders with mcc
+643,Diabetic renal disease (disorder),Endocrine disorders with mcc
+643,Diabetic retinopathy associated with type II diabetes mellitus (disorder),Endocrine disorders with mcc
+643,Idiopathic atrophic hypothyroidism,Endocrine disorders with mcc
+684,Chronic kidney disease stage 1 (disorder),Renal failure without ccmcc
+684,Chronic kidney disease stage 2 (disorder),Renal failure without ccmcc
+689,Cystitis,Kidney and urinary tract infections with mcc
+689,Pyelonephritis,Kidney and urinary tract infections with mcc
+689,Recurrent urinary tract infection,Kidney and urinary tract infections with mcc
+698,Microalbuminuria due to type 2 diabetes mellitus (disorder),Other kidney and urinary tract diagnoses with mcc
+715,Carcinoma in situ of prostate (disorder),Other male reproductive system or Procedures
+722,Metastasis from malignant tumor of prostate (disorder),"Malignancy, male reproductive system with mcc"
+722,Neoplasm of prostate,"Malignancy, male reproductive system with mcc"
+779,Miscarriage in first trimester,Abortion without d&c
+811,Anemia (disorder),Red blood cell disorders with mcc
+817,Antepartum eclampsia,Other antepartum diagnoses with or Procedures
+817,Blighted ovum,Other antepartum diagnoses with or Procedures
+817,Fetus with unknown complication,Other antepartum diagnoses with or Procedures
+817,Preeclampsia,Other antepartum diagnoses with or Proc
+817,Tubal pregnancy,Other antepartum diagnoses with or Proc
+885,Major depression single episode,Psychoses
+885,Major depression disorder,Psychoses
+886,Child attention deficit disorder,Behavioral and developmental disorders
+894,Alcoholism,"Alcohol, drug abuse or dependence, left ama"
+894,Opioid abuse (disorder),"Alcohol, drug abuse or dependence, left ama"
+913,Injury of tendon of the rotator cuff of shoulder,Traumatic injury with mcc
+913,Laceration of foot,Traumatic injury with mcc
+913,Laceration of forearm,Traumatic injury with mcc
+913,Laceration of hand,Traumatic injury with mcc
+913,Laceration of thigh,Traumatic injury with mcc
+915,Acute allergic reaction,Allergic reactions with mcc
+917,Drug overdose,Poisoning and toxic effects of drugs with mcc
+935,Burn injury(morphologic abnormality),Non-extensive burns
+935,First degree burn,Non-extensive burns
+935,Second degree burn,Non-extensive burns
+949,Brain damage - traumatic,Aftercare with ccmcc
+949,Bullet wound,Aftercare with ccmcc
+951,Normal pregnancy,Other factors influencing health status
+951,Smokes tobacco daily,Other factors influencing health status
