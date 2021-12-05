@@ -1,0 +1,437 @@
+MS_DRG ,MS_DRG_DESCRIPTION
+008,Simultaneous pancreas and kidney transplant
+010,Pancreas transplant
+011,"Tracheostomy for face, mouth and neck diagnoses or laryngectomy with mcc"
+012,"Tracheostomy for face, mouth and neck diagnoses or laryngectomy with cc"
+013,"Tracheostomy for face, mouth and neck diagnoses or laryngectomy without cc/mcc"
+019,Simultaneous pancreas and kidney transplant with hemodialysis
+020,Intracranial vascular procedures with principal diagnosis hemorrhage with mcc
+021,Intracranial vascular procedures with principal diagnosis hemorrhage with cc
+022,Intracranial vascular procedures with principal diagnosis hemorrhage without cc/mcc
+023,Craniotomy with major device implant or acute complex cns principal diagnosis with mcc or chemotherapy implant or epilepsy with neurostimulator
+024,Craniotomy with major device implant or acute complex cns principal diagnosis without mcc
+052,Spinal disorders and injuries with cc/mcc
+053,Spinal disorders and injuries without cc/mcc
+054,Nervous system neoplasms with mcc
+055,Nervous system neoplasms without mcc
+056,Degenerative nervous system disorders with mcc
+057,Degenerative nervous system disorders without mcc
+058,Multiple sclerosis and cerebellar ataxia with mcc
+059,Multiple sclerosis and cerebellar ataxia with cc
+060,Multiple sclerosis and cerebellar ataxia without cc/mcc
+061,"Ischemic stroke, precerebral occlusion or transient ischemia with thrombolytic agent with mcc"
+062,"Ischemic stroke, precerebral occlusion or transient ischemia with thrombolytic agent with cc"
+063,"Ischemic stroke, precerebral occlusion or transient ischemia with thrombolytic agent without cc/mcc"
+064,Intracranial hemorrhage or cerebral infarction with mcc
+065,Intracranial hemorrhage or cerebral infarction with cc or tpa in 24 hours
+066,Intracranial hemorrhage or cerebral infarction without cc/mcc
+067,Nonspecific cva and precerebral occlusion without infarction with mcc
+068,Nonspecific cva and precerebral occlusion without infarction without mcc
+069,Transient ischemia without thrombolytic
+070,Nonspecific cerebrovascular disorders with mcc
+071,Nonspecific cerebrovascular disorders with cc
+072,Nonspecific cerebrovascular disorders without cc/mcc
+073,Cranial and peripheral nerve disorders with mcc
+074,Cranial and peripheral nerve disorders without mcc
+075,Viral meningitis with cc/mcc
+076,Viral meningitis without cc/mcc
+077,Hypertensive encephalopathy with mcc
+078,Hypertensive encephalopathy with cc
+079,Hypertensive encephalopathy without cc/mcc
+080,Nontraumatic stupor and coma with mcc
+081,Nontraumatic stupor and coma without mcc
+082,Traumatic stupor and coma >1 hour with mcc
+083,Traumatic stupor and coma >1 hour with cc
+084,Traumatic stupor and coma >1 hour without cc/mcc
+085,Traumatic stupor and coma <1 hour with mcc
+086,Traumatic stupor and coma <1 hour with cc
+087,Traumatic stupor and coma <1 hour without cc/mcc
+088,Concussion with mcc
+089,Concussion with cc
+090,Concussion without cc/mcc
+091,Other disorders of nervous system with mcc
+092,Other disorders of nervous system with cc
+093,Other disorders of nervous system without cc/mcc
+094,Bacterial and tuberculous infections of nervous system with mcc
+095,Bacterial and tuberculous infections of nervous system with cc
+096,Bacterial and tuberculous infections of nervous system without cc/mcc
+097,Non-bacterial infection of nervous system except viral meningitis with mcc
+098,Non-bacterial infection of nervous system except viral meningitis with cc
+099,Non-bacterial infection of nervous system except viral meningitis without cc/mcc
+100,Seizures with mcc
+101,Seizures without mcc
+102,Headaches with mcc
+103,Headaches without mcc
+121,Acute major eye infections with cc/mcc
+122,Acute major eye infections without cc/mcc
+123,Neurological eye disorders
+124,Other disorders of the eye with mcc
+125,Other disorders of the eye without mcc
+146,"Ear, nose, mouth and throat malignancy with mcc"
+147,"Ear, nose, mouth and throat malignancy with cc"
+148,"Ear, nose, mouth and throat malignancy without cc/mcc"
+149,Dysequilibrium
+150,Epistaxis with mcc
+151,Epistaxis without mcc
+152,Otitis media and uri with mcc
+153,Otitis media and uri without mcc
+154,"Other ear, nose, mouth and throat diagnoses with mcc"
+155,"Other ear, nose, mouth and throat diagnoses with cc"
+156,"Other ear, nose, mouth and throat diagnoses without cc/mcc"
+157,Dental and oral diseases with mcc
+158,Dental and oral diseases with cc
+159,Dental and oral diseases without cc/mcc
+175,Pulmonary embolism with mcc or acute cor pulmonale
+176,Pulmonary embolism without mcc
+177,Respiratory infections and inflammations with mcc
+178,Respiratory infections and inflammations with cc
+179,Respiratory infections and inflammations without cc/mcc
+180,Respiratory neoplasms with mcc
+181,Respiratory neoplasms with cc
+182,Respiratory neoplasms without cc/mcc
+183,Major chest trauma with mcc
+184,Major chest trauma with cc
+185,Major chest trauma without cc/mcc
+186,Pleural effusion with mcc
+187,Pleural effusion with cc
+188,Pleural effusion without cc/mcc
+189,Pulmonary edema and respiratory failure
+190,Chronic obstructive pulmonary disease with mcc
+191,Chronic obstructive pulmonary disease with cc
+192,Chronic obstructive pulmonary disease without cc/mcc
+193,Simple pneumonia and pleurisy with mcc
+194,Simple pneumonia and pleurisy with cc
+195,Simple pneumonia and pleurisy without cc/mcc
+196,Interstitial lung disease with mcc
+197,Interstitial lung disease with cc
+198,Interstitial lung disease without cc/mcc
+199,Pneumothorax with mcc
+200,Pneumothorax with cc
+201,Pneumothorax without cc/mcc
+202,Bronchitis and asthma with cc/mcc
+203,Bronchitis and asthma without cc/mcc
+204,Respiratory signs and symptoms
+205,Other respiratory system diagnoses with mcc
+206,Other respiratory system diagnoses without mcc
+222,"Cardiac defibrillator implant with cardiac catheterization with ami, hf or shock with mcc"
+223,"Cardiac defibrillator implant with cardiac catheterization with ami, hf or shock without mcc"
+280,"Acute myocardial infarction, discharged alive with mcc"
+281,"Acute myocardial infarction, discharged alive with cc"
+282,"Acute myocardial infarction, discharged alive without cc/mcc"
+283,"Acute myocardial infarction, expired with mcc"
+284,"Acute myocardial infarction, expired with cc"
+285,"Acute myocardial infarction, expired without cc/mcc"
+288,Acute and subacute endocarditis with mcc
+289,Acute and subacute endocarditis with cc
+290,Acute and subacute endocarditis without cc/mcc
+291,Heart failure and shock with mcc
+292,Heart failure and shock with cc
+293,Heart failure and shock without cc/mcc
+294,Deep vein thrombophlebitis with cc/mcc
+295,Deep vein thrombophlebitis without cc/mcc
+296,"Cardiac arrest, unexplained with mcc"
+297,"Cardiac arrest, unexplained with cc"
+298,"Cardiac arrest, unexplained without cc/mcc"
+299,Peripheral vascular disorders with mcc
+300,Peripheral vascular disorders with cc
+301,Peripheral vascular disorders without cc/mcc
+302,Atherosclerosis with mcc
+303,Atherosclerosis without mcc
+304,Hypertension with mcc
+305,Hypertension without mcc
+306,Cardiac congenital and valvular disorders with mcc
+307,Cardiac congenital and valvular disorders without mcc
+308,Cardiac arrhythmia and conduction disorders with mcc
+309,Cardiac arrhythmia and conduction disorders with cc
+310,Cardiac arrhythmia and conduction disorders without cc/mcc
+311,Angina pectoris
+312,Syncope and collapse
+313,Chest pain
+314,Other circulatory system diagnoses with mcc
+315,Other circulatory system diagnoses with cc
+316,Other circulatory system diagnoses without cc/mcc
+338,Appendectomy with complicated principal diagnosis with mcc
+339,Appendectomy with complicated principal diagnosis with cc
+340,Appendectomy with complicated principal diagnosis without cc/mcc
+368,Major esophageal disorders with mcc
+369,Major esophageal disorders with cc
+370,Major esophageal disorders without cc/mcc
+371,Major gastrointestinal disorders and peritoneal infections with mcc
+372,Major gastrointestinal disorders and peritoneal infections with cc
+373,Major gastrointestinal disorders and peritoneal infections without cc/mcc
+374,Digestive malignancy with mcc
+375,Digestive malignancy with cc
+376,Digestive malignancy without cc/mcc
+377,Gastrointestinal hemorrhage with mcc
+378,Gastrointestinal hemorrhage with cc
+379,Gastrointestinal hemorrhage without cc/mcc
+380,Complicated peptic ulcer with mcc
+381,Complicated peptic ulcer with cc
+382,Complicated peptic ulcer without cc/mcc
+383,Uncomplicated peptic ulcer with mcc
+384,Uncomplicated peptic ulcer without mcc
+385,Inflammatory bowel disease with mcc
+386,Inflammatory bowel disease with cc
+387,Inflammatory bowel disease without cc/mcc
+388,Gastrointestinal obstruction with mcc
+389,Gastrointestinal obstruction with cc
+390,Gastrointestinal obstruction without cc/mcc
+391,"Esophagitis, gastroenteritis and miscellaneous digestive disorders with mcc"
+392,"Esophagitis, gastroenteritis and miscellaneous digestive disorders without mcc"
+393,Other digestive system diagnoses with mcc
+394,Other digestive system diagnoses with cc
+395,Other digestive system diagnoses without cc/mcc
+432,Cirrhosis and alcoholic hepatitis with mcc
+433,Cirrhosis and alcoholic hepatitis with cc
+434,Cirrhosis and alcoholic hepatitis without cc/mcc
+435,Malignancy of hepatobiliary system or pancreas with mcc
+436,Malignancy of hepatobiliary system or pancreas with cc
+437,Malignancy of hepatobiliary system or pancreas without cc/mcc
+438,Disorders of pancreas except malignancy with mcc
+439,Disorders of pancreas except malignancy with cc
+440,Disorders of pancreas except malignancy without cc/mcc
+441,"Disorders of liver except malignancy, cirrhosis or alcoholic hepatitis with mcc"
+442,"Disorders of liver except malignancy, cirrhosis or alcoholic hepatitis with cc"
+443,"Disorders of liver except malignancy, cirrhosis or alcoholic hepatitis without cc/mcc"
+444,Disorders of the biliary tract with mcc
+445,Disorders of the biliary tract with cc
+446,Disorders of the biliary tract without cc/mcc
+456,"Spinal fusion except cervical with spinal curvature, malignancy, infection or extensive fusions with mcc"
+457,"Spinal fusion except cervical with spinal curvature, malignancy, infection or extensive fusions with cc"
+458,"Spinal fusion except cervical with spinal curvature, malignancy, infection or extensive fusions without cc/mcc"
+485,Knee procedures with principal diagnosis of infection with mcc
+486,Knee procedures with principal diagnosis of infection with cc
+487,Knee procedures with principal diagnosis of infection without cc/mcc
+521,Hip replacement with principal diagnosis of hip fracture with mcc
+522,Hip replacement with principal diagnosis of hip fracture without mcc
+533,Fractures of femur with mcc
+534,Fractures of femur without mcc
+535,Fractures of hip and pelvis with mcc
+536,Fractures of hip and pelvis without mcc
+537,"Sprains, strains, and dislocations of hip, pelvis and thigh with cc/mcc"
+538,"Sprains, strains, and dislocations of hip, pelvis and thigh without cc/mcc"
+539,Osteomyelitis with mcc
+540,Osteomyelitis with cc
+541,Osteomyelitis without cc/mcc
+542,Pathological fractures and musculoskeletal and connective tissue malignancy with mcc
+543,Pathological fractures and musculoskeletal and connective tissue malignancy with cc
+544,Pathological fractures and musculoskeletal and connective tissue malignancy without cc/mcc
+545,Connective tissue disorders with mcc
+546,Connective tissue disorders with cc
+547,Connective tissue disorders without cc/mcc
+548,Septic arthritis with mcc
+549,Septic arthritis with cc
+550,Septic arthritis without cc/mcc
+551,Medical back problems with mcc
+552,Medical back problems without mcc
+553,Bone diseases and arthropathies with mcc
+554,Bone diseases and arthropathies without mcc
+555,Signs and symptoms of musculoskeletal system and connective tissue with mcc
+556,Signs and symptoms of musculoskeletal system and connective tissue without mcc
+557,"Tendonitis, myositis and bursitis with mcc"
+558,"Tendonitis, myositis and bursitis without mcc"
+559,"Aftercare, musculoskeletal system and connective tissue with mcc"
+560,"Aftercare, musculoskeletal system and connective tissue with cc"
+561,"Aftercare, musculoskeletal system and connective tissue without cc/mcc"
+562,"Fracture, sprain, strain and dislocation except femur, hip, pelvis and thigh with mcc"
+563,"Fracture, sprain, strain and dislocation except femur, hip, pelvis and thigh without mcc"
+564,Other musculoskeletal system and connective tissue diagnoses with mcc
+565,Other musculoskeletal system and connective tissue diagnoses with cc
+566,Other musculoskeletal system and connective tissue diagnoses without cc/mcc
+573,Skin graft for skin ulcer or cellulitis with mcc
+574,Skin graft for skin ulcer or cellulitis with cc
+575,Skin graft for skin ulcer or cellulitis without cc/mcc
+582,Mastectomy for malignancy with cc/mcc
+583,Mastectomy for malignancy without cc/mcc
+592,Skin ulcers with mcc
+593,Skin ulcers with cc
+594,Skin ulcers without cc/mcc
+595,Major skin disorders with mcc
+596,Major skin disorders without mcc
+597,Malignant breast disorders with mcc
+598,Malignant breast disorders with cc
+599,Malignant breast disorders without cc/mcc
+600,Non-malignant breast disorders with cc/mcc
+601,Non-malignant breast disorders without cc/mcc
+602,Cellulitis with mcc
+603,Cellulitis without mcc
+604,"Trauma to the skin, subcutaneous tissue and breast with mcc"
+605,"Trauma to the skin, subcutaneous tissue and breast without mcc"
+606,Minor skin disorders with mcc
+607,Minor skin disorders without mcc
+637,Diabetes with mcc
+638,Diabetes with cc
+639,Diabetes without cc/mcc
+640,"Miscellaneous disorders of nutrition, metabolism, fluids and electrolytes with mcc"
+641,"Miscellaneous disorders of nutrition, metabolism, fluids and electrolytes without mcc"
+642,Inborn and other disorders of metabolism
+643,Endocrine disorders with mcc
+644,Endocrine disorders with cc
+645,Endocrine disorders without cc/mcc
+656,Kidney and ureter procedures for neoplasm with mcc
+657,Kidney and ureter procedures for neoplasm with cc
+658,Kidney and ureter procedures for neoplasm without cc/mcc
+673,Other kidney and urinary tract procedures with mcc
+674,Other kidney and urinary tract procedures with cc
+675,Other kidney and urinary tract procedures without cc/mcc
+682,Renal failure with mcc
+683,Renal failure with cc
+684,Renal failure without cc/mcc
+686,Kidney and urinary tract neoplasms with mcc
+687,Kidney and urinary tract neoplasms with cc
+688,Kidney and urinary tract neoplasms without cc/mcc
+689,Kidney and urinary tract infections with mcc
+690,Kidney and urinary tract infections without mcc
+693,Urinary stones with mcc
+694,Urinary stones without mcc
+695,Kidney and urinary tract signs and symptoms with mcc
+696,Kidney and urinary tract signs and symptoms without mcc
+697,Urethral stricture
+698,Other kidney and urinary tract diagnoses with mcc
+699,Other kidney and urinary tract diagnoses with cc
+700,Other kidney and urinary tract diagnoses without cc/mcc
+715,Other male reproductive system o.r. Procedures for malignancy with cc/mcc
+716,Other male reproductive system o.r. Procedures for malignancy without cc/mcc
+722,"Malignancy, male reproductive system with mcc"
+723,"Malignancy, male reproductive system with cc"
+724,"Malignancy, male reproductive system without cc/mcc"
+725,Benign prostatic hypertrophy with mcc
+726,Benign prostatic hypertrophy without mcc
+727,Inflammation of the male reproductive system with mcc
+728,Inflammation of the male reproductive system without mcc
+729,Other male reproductive system diagnoses with cc/mcc
+730,Other male reproductive system diagnoses without cc/mcc
+736,Uterine and adnexa procedures for ovarian or adnexal malignancy with mcc
+737,Uterine and adnexa procedures for ovarian or adnexal malignancy with cc
+738,Uterine and adnexa procedures for ovarian or adnexal malignancy without cc/mcc
+739,Uterine and adnexa procedures for non-ovarian and non-adnexal malignancy with mcc
+740,Uterine and adnexa procedures for non-ovarian and non-adnexal malignancy with cc
+741,Uterine and adnexa procedures for non-ovarian and non-adnexal malignancy without cc/mcc
+742,Uterine and adnexa procedures for non-malignancy with cc/mcc
+743,Uterine and adnexa procedures for non-malignancy without cc/mcc
+754,"Malignancy, female reproductive system with mcc"
+755,"Malignancy, female reproductive system with cc"
+756,"Malignancy, female reproductive system without cc/mcc"
+757,"Infections, female reproductive system with mcc"
+758,"Infections, female reproductive system with cc"
+759,"Infections, female reproductive system without cc/mcc"
+760,Menstrual and other female reproductive system disorders with cc/mcc
+761,Menstrual and other female reproductive system disorders without cc/mcc
+768,Vaginal delivery with o.r. Procedures except sterilization and/or d&c
+769,Postpartum and post abortion diagnoses with o.r. Procedures
+770,"Abortion with d&c, aspiration curettage or hysterotomy"
+776,Postpartum and post abortion diagnoses without o.r. Procedures
+779,Abortion without d&c
+790,"Extreme immaturity or respiratory distress syndrome, neonate"
+791,Prematurity with major problems
+792,Prematurity without major problems
+793,Full term neonate with major problems
+794,Neonate with other significant problems
+795,Normal newborn
+796,Vaginal delivery with sterilization and/or d&c with mcc
+797,Vaginal delivery with sterilization and/or d&c with cc
+798,Vaginal delivery with sterilization and/or d&c without cc/mcc
+805,Vaginal delivery without sterilization or d&c with mcc
+806,Vaginal delivery without sterilization or d&c with cc
+807,Vaginal delivery without sterilization or d&c without cc/mcc
+808,Major hematological and immunological diagnoses except sickle cell crisis and coagulation disorders with mcc
+809,Major hematological and immunological diagnoses except sickle cell crisis and coagulation disorders with cc
+810,Major hematological and immunological diagnoses except sickle cell crisis and coagulation disorders without cc/mcc
+811,Red blood cell disorders with mcc
+812,Red blood cell disorders without mcc
+813,Coagulation disorders
+814,Reticuloendothelial and immunity disorders with mcc
+815,Reticuloendothelial and immunity disorders with cc
+816,Reticuloendothelial and immunity disorders without cc/mcc
+817,Other antepartum diagnoses with o.r. Procedures with mcc
+818,Other antepartum diagnoses with o.r. Procedures with cc
+819,Other antepartum diagnoses with o.r. Procedures without cc/mcc
+820,Lymphoma and leukemia with major o.r. Procedures with mcc
+821,Lymphoma and leukemia with major o.r. Procedures with cc
+822,Lymphoma and leukemia with major o.r. Procedures without cc/mcc
+823,Lymphoma and non-acute leukemia with other procedures with mcc
+824,Lymphoma and non-acute leukemia with other procedures with cc
+825,Lymphoma and non-acute leukemia with other procedures without cc/mcc
+826,Myeloproliferative disorders or poorly differentiated neoplasms with major o.r. Procedures with mcc
+827,Myeloproliferative disorders or poorly differentiated neoplasms with major o.r. Procedures with cc
+828,Myeloproliferative disorders or poorly differentiated neoplasms with major o.r. Procedures without cc/mcc
+829,Myeloproliferative disorders or poorly differentiated neoplasms with other procedures with cc/mcc
+830,Myeloproliferative disorders or poorly differentiated neoplasms with other procedures without cc/mcc
+831,Other antepartum diagnoses without o.r. Procedures with mcc
+832,Other antepartum diagnoses without o.r. Procedures with cc
+833,Other antepartum diagnoses without o.r. Procedures without cc/mcc
+834,Acute leukemia without major o.r. Procedures with mcc
+835,Acute leukemia without major o.r. Procedures with cc
+836,Acute leukemia without major o.r. Procedures without cc/mcc
+837,Chemotherapy with acute leukemia as secondary diagnosis or with high dose chemotherapy agent with mcc
+838,Chemotherapy with acute leukemia as secondary diagnosis with cc or high dose chemotherapy agent
+839,Chemotherapy with acute leukemia as secondary diagnosis without cc/mcc
+840,Lymphoma and non-acute leukemia with mcc
+841,Lymphoma and non-acute leukemia with cc
+842,Lymphoma and non-acute leukemia without cc/mcc
+843,Other myeloproliferative disorders or poorly differentiated neoplastic diagnoses with mcc
+844,Other myeloproliferative disorders or poorly differentiated neoplastic diagnoses with cc
+845,Other myeloproliferative disorders or poorly differentiated neoplastic diagnoses without cc/mcc
+846,Chemotherapy without acute leukemia as secondary diagnosis with mcc
+847,Chemotherapy without acute leukemia as secondary diagnosis with cc
+848,Chemotherapy without acute leukemia as secondary diagnosis without cc/mcc
+849,Radiotherapy
+856,Postoperative or post-traumatic infections with o.r. Procedures with mcc
+857,Postoperative or post-traumatic infections with o.r. Procedures with cc
+858,Postoperative or post-traumatic infections with o.r. Procedures without cc/mcc
+862,Postoperative and post-traumatic infections with mcc
+863,Postoperative and post-traumatic infections without mcc
+864,Fever and inflammatory conditions
+865,Viral illness with mcc
+866,Viral illness without mcc
+867,Other infectious and parasitic diseases diagnoses with mcc
+868,Other infectious and parasitic diseases diagnoses with cc
+869,Other infectious and parasitic diseases diagnoses without cc/mcc
+870,Septicemia or severe sepsis with mv >96 hours
+871,Septicemia or severe sepsis without mv >96 hours with mcc
+872,Septicemia or severe sepsis without mv >96 hours without mcc
+880,Acute adjustment reaction and psychosocial dysfunction
+881,Depressive neuroses
+882,Neuroses except depressive
+883,Disorders of personality and impulse control
+884,Organic disturbances and intellectual disability
+885,Psychoses
+886,Behavioral and developmental disorders
+887,Other mental disorder diagnoses
+894,"Alcohol, drug abuse or dependence, left ama"
+895,"Alcohol, drug abuse or dependence with rehabilitation therapy"
+896,"Alcohol, drug abuse or dependence without rehabilitation therapy with mcc"
+897,"Alcohol, drug abuse or dependence without rehabilitation therapy without mcc"
+913,Traumatic injury with mcc
+914,Traumatic injury without mcc
+915,Allergic reactions with mcc
+916,Allergic reactions without mcc
+917,Poisoning and toxic effects of drugs with mcc
+918,Poisoning and toxic effects of drugs without mcc
+919,Complications of treatment with mcc
+920,Complications of treatment with cc
+921,Complications of treatment without cc/mcc
+922,"Other injury, poisoning and toxic effect diagnoses with mcc"
+923,"Other injury, poisoning and toxic effect diagnoses without mcc"
+927,Extensive burns or full thickness burns with mv >96 hours with skin graft
+928,Full thickness burn with skin graft or inhalation injury with cc/mcc
+929,Full thickness burn with skin graft or inhalation injury without cc/mcc
+933,Extensive burns or full thickness burns with mv >96 hours without skin graft
+935,Non-extensive burns
+945,Rehabilitation with cc/mcc
+946,Rehabilitation without cc/mcc
+947,Signs and symptoms with mcc
+948,Signs and symptoms without mcc
+949,Aftercare with cc/mcc
+950,Aftercare without cc/mcc
+951,Other factors influencing health status
+963,Other multiple significant trauma with mcc
+964,Other multiple significant trauma with cc
+965,Other multiple significant trauma without cc/mcc
+969,Hiv with extensive o.r. Procedures with mcc
+970,Hiv with extensive o.r. Procedures without mcc
+974,Hiv with major related condition with mcc
+975,Hiv with major related condition with cc
+976,Hiv with major related condition without cc/mcc
+977,Hiv with or without other related condition
+998,Principal diagnosis invalid as discharge diagnosis
