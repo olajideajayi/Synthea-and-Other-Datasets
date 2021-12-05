@@ -1,63 +1,63 @@
 MS_DRG ,MS_DRG_DESCRIPTION
-008,Simultaneous pancreas and kidney transplant
-010,Pancreas transplant
-011,"Tracheostomy for face, mouth and neck diagnoses or laryngectomy with mcc"
-012,"Tracheostomy for face, mouth and neck diagnoses or laryngectomy with cc"
-013,"Tracheostomy for face, mouth and neck diagnoses or laryngectomy without cc/mcc"
-019,Simultaneous pancreas and kidney transplant with hemodialysis
-020,Intracranial vascular procedures with principal diagnosis hemorrhage with mcc
-021,Intracranial vascular procedures with principal diagnosis hemorrhage with cc
-022,Intracranial vascular procedures with principal diagnosis hemorrhage without cc/mcc
-023,Craniotomy with major device implant or acute complex cns principal diagnosis with mcc or chemotherapy implant or epilepsy with neurostimulator
-024,Craniotomy with major device implant or acute complex cns principal diagnosis without mcc
-052,Spinal disorders and injuries with cc/mcc
-053,Spinal disorders and injuries without cc/mcc
-054,Nervous system neoplasms with mcc
-055,Nervous system neoplasms without mcc
-056,Degenerative nervous system disorders with mcc
-057,Degenerative nervous system disorders without mcc
-058,Multiple sclerosis and cerebellar ataxia with mcc
-059,Multiple sclerosis and cerebellar ataxia with cc
-060,Multiple sclerosis and cerebellar ataxia without cc/mcc
-061,"Ischemic stroke, precerebral occlusion or transient ischemia with thrombolytic agent with mcc"
-062,"Ischemic stroke, precerebral occlusion or transient ischemia with thrombolytic agent with cc"
-063,"Ischemic stroke, precerebral occlusion or transient ischemia with thrombolytic agent without cc/mcc"
-064,Intracranial hemorrhage or cerebral infarction with mcc
-065,Intracranial hemorrhage or cerebral infarction with cc or tpa in 24 hours
-066,Intracranial hemorrhage or cerebral infarction without cc/mcc
-067,Nonspecific cva and precerebral occlusion without infarction with mcc
-068,Nonspecific cva and precerebral occlusion without infarction without mcc
-069,Transient ischemia without thrombolytic
-070,Nonspecific cerebrovascular disorders with mcc
-071,Nonspecific cerebrovascular disorders with cc
-072,Nonspecific cerebrovascular disorders without cc/mcc
-073,Cranial and peripheral nerve disorders with mcc
-074,Cranial and peripheral nerve disorders without mcc
-075,Viral meningitis with cc/mcc
-076,Viral meningitis without cc/mcc
-077,Hypertensive encephalopathy with mcc
-078,Hypertensive encephalopathy with cc
-079,Hypertensive encephalopathy without cc/mcc
-080,Nontraumatic stupor and coma with mcc
-081,Nontraumatic stupor and coma without mcc
-082,Traumatic stupor and coma >1 hour with mcc
-083,Traumatic stupor and coma >1 hour with cc
-084,Traumatic stupor and coma >1 hour without cc/mcc
-085,Traumatic stupor and coma <1 hour with mcc
-086,Traumatic stupor and coma <1 hour with cc
-087,Traumatic stupor and coma <1 hour without cc/mcc
-088,Concussion with mcc
-089,Concussion with cc
-090,Concussion without cc/mcc
-091,Other disorders of nervous system with mcc
-092,Other disorders of nervous system with cc
-093,Other disorders of nervous system without cc/mcc
-094,Bacterial and tuberculous infections of nervous system with mcc
-095,Bacterial and tuberculous infections of nervous system with cc
-096,Bacterial and tuberculous infections of nervous system without cc/mcc
-097,Non-bacterial infection of nervous system except viral meningitis with mcc
-098,Non-bacterial infection of nervous system except viral meningitis with cc
-099,Non-bacterial infection of nervous system except viral meningitis without cc/mcc
+8,Simultaneous pancreas and kidney transplant
+10,Pancreas transplant
+11,"Tracheostomy for face, mouth and neck diagnoses or laryngectomy with mcc"
+12,"Tracheostomy for face, mouth and neck diagnoses or laryngectomy with cc"
+13,"Tracheostomy for face, mouth and neck diagnoses or laryngectomy without cc/mcc"
+19,Simultaneous pancreas and kidney transplant with hemodialysis
+20,Intracranial vascular procedures with principal diagnosis hemorrhage with mcc
+21,Intracranial vascular procedures with principal diagnosis hemorrhage with cc
+22,Intracranial vascular procedures with principal diagnosis hemorrhage without cc/mcc
+23,Craniotomy with major device implant or acute complex cns principal diagnosis with mcc or chemotherapy implant or epilepsy with neurostimulator
+24,Craniotomy with major device implant or acute complex cns principal diagnosis without mcc
+52,Spinal disorders and injuries with cc/mcc
+53,Spinal disorders and injuries without cc/mcc
+54,Nervous system neoplasms with mcc
+55,Nervous system neoplasms without mcc
+56,Degenerative nervous system disorders with mcc
+57,Degenerative nervous system disorders without mcc
+58,Multiple sclerosis and cerebellar ataxia with mcc
+59,Multiple sclerosis and cerebellar ataxia with cc
+60,Multiple sclerosis and cerebellar ataxia without cc/mcc
+61,"Ischemic stroke, precerebral occlusion or transient ischemia with thrombolytic agent with mcc"
+62,"Ischemic stroke, precerebral occlusion or transient ischemia with thrombolytic agent with cc"
+63,"Ischemic stroke, precerebral occlusion or transient ischemia with thrombolytic agent without cc/mcc"
+64,Intracranial hemorrhage or cerebral infarction with mcc
+65,Intracranial hemorrhage or cerebral infarction with cc or tpa in 24 hours
+66,Intracranial hemorrhage or cerebral infarction without cc/mcc
+67,Nonspecific cva and precerebral occlusion without infarction with mcc
+68,Nonspecific cva and precerebral occlusion without infarction without mcc
+69,Transient ischemia without thrombolytic
+70,Nonspecific cerebrovascular disorders with mcc
+71,Nonspecific cerebrovascular disorders with cc
+72,Nonspecific cerebrovascular disorders without cc/mcc
+73,Cranial and peripheral nerve disorders with mcc
+74,Cranial and peripheral nerve disorders without mcc
+75,Viral meningitis with cc/mcc
+76,Viral meningitis without cc/mcc
+77,Hypertensive encephalopathy with mcc
+78,Hypertensive encephalopathy with cc
+79,Hypertensive encephalopathy without cc/mcc
+80,Nontraumatic stupor and coma with mcc
+81,Nontraumatic stupor and coma without mcc
+82,Traumatic stupor and coma >1 hour with mcc
+83,Traumatic stupor and coma >1 hour with cc
+84,Traumatic stupor and coma >1 hour without cc/mcc
+85,Traumatic stupor and coma <1 hour with mcc
+86,Traumatic stupor and coma <1 hour with cc
+87,Traumatic stupor and coma <1 hour without cc/mcc
+88,Concussion with mcc
+89,Concussion with cc
+90,Concussion without cc/mcc
+91,Other disorders of nervous system with mcc
+92,Other disorders of nervous system with cc
+93,Other disorders of nervous system without cc/mcc
+94,Bacterial and tuberculous infections of nervous system with mcc
+95,Bacterial and tuberculous infections of nervous system with cc
+96,Bacterial and tuberculous infections of nervous system without cc/mcc
+97,Non-bacterial infection of nervous system except viral meningitis with mcc
+98,Non-bacterial infection of nervous system except viral meningitis with cc
+99,Non-bacterial infection of nervous system except viral meningitis without cc/mcc
 100,Seizures with mcc
 101,Seizures without mcc
 102,Headaches with mcc
